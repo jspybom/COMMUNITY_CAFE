@@ -30,13 +30,13 @@ Our solution provides a dual-sided platform: a simple, secure portal for donors 
 
 ### Key Features
 
-* **Secure Donation Portal:** Integrated with **Paytm** and **VISA Debit/Credit Cards**, the app offers a fast and secure way for donors to make one-time or recurring monetary contributions. It also supports in-kind donation pledges (e.g., food, clothing, volunteer hours).
+1. **Secure Donation Portal:** Integrated with **Paytm** and **VISA Debit/Credit Cards**, the app offers a fast and secure way for donors to make one-time or recurring monetary contributions. It also supports in-kind donation pledges (e.g., food, clothing, volunteer hours).
 
-* **Resource Management Dashboard:** An intuitive backend for NGOs to track all incoming donations in real-time. They can manage donor information, categorize resources, and see immediate funding totals.
+2. **Resource Management Dashboard:** An intuitive backend for NGOs to track all incoming donations in real-time. They can manage donor information, categorize resources, and see immediate funding totals.
 
-* **Automated Receipts & Transparency Reports:** The platform automatically generates and sends donation receipts to supporters. NGOs can also publish simple, transparent reports showing how funds are being utilized, directly building community trust.
+3. **Automated Receipts & Transparency Reports:** The platform automatically generates and sends donation receipts to supporters. NGOs can also publish simple, transparent reports showing how funds are being utilized, directly building community trust.
 
-* **Campaign & Event Creation:** Organizations can easily create and promote specific fundraising campaigns or volunteer events directly within the app, allowing them to rally support for urgent needs.
+4. **Campaign & Event Creation:** Organizations can easily create and promote specific fundraising campaigns or volunteer events directly within the app, allowing them to rally support for urgent needs.
 
 ---
 
@@ -44,10 +44,10 @@ Our solution provides a dual-sided platform: a simple, secure portal for donors 
 
 We selected a modern, scalable, and cost-effective tech stack to ensure reliability and a great user experience on both major mobile platforms.
 
-* **Cross-Platform App:** **FlutterFlow** was used to build a beautiful, high-performance application for both iOS and Android from a single codebase.
-* **Backend:** A robust backend was developed using **Replit** to handle business logic and API requests.
-* **Database:** **Firebase (Firestore)** provided a secure and scalable real-time database for managing all user and donation data.
-* **Payment Gateway:** **PaytmAPI** and **VISAapi** was integrated for its world-class security and ease of use in handling financial transactions.
+1. **Cross-Platform App:** **FlutterFlow** was used to build a beautiful, high-performance application for both iOS and Android from a single codebase.
+2. **Backend:** A robust backend was developed using **Replit** to handle business logic and API requests.
+3. **Database:** **MongoDB** provided a secure and scalable real-time database for managing all user and donation data.
+4.   **Payment Gateway:** **PaytmAPI** and **VISAapi** was integrated for its world-class security and ease of use in handling financial transactions.
 
 
 
